@@ -12,6 +12,7 @@
 6. 8/22（日）鳳梨頭好像死掉了
 7. 8/23（一）青蔥變高了
 8. 8/24（二）阿公種的冬瓜有30公分了
+9. 8/25（三）阿公種的另一條冬瓜，頭長得比較大
 
 
 ![pineapple_head.jpg](pineapple_head.jpg)
@@ -20,6 +21,7 @@
 ![pineapple2.jpg](pineapple2.jpg)
 ![green_onion2.jpg](green_onion2.jpg)
 ![winter_melon.jpg](winter_melon.jpg)
+![winter_melon2.jpg](winter_melon2.jpg)
 ## 每天要做的事
 1. 澆水
 2. 照顧
