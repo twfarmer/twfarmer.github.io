@@ -13,7 +13,7 @@
 7. 8/23（一）青蔥變高了
 8. 8/24（二）阿公種的冬瓜有30公分了
 9. 8/25（三）阿公種的另一條冬瓜，頭長得比較大
-10.8/26（四）這是我家的蓮蕉花，看起來很高喔！
+10. 8/26（四）這是我家的蓮蕉花，看起來很高喔！
 
 
 ![pineapple_head.jpg](pineapple_head.jpg)
@@ -31,7 +31,9 @@
 ![winter_melon2.jpg](winter_melon2.jpg)
 
 ![蓮蕉花](https://user-images.githubusercontent.com/88895341/130991810-88ffd95f-7472-4b94-aa9b-0711514e2b89.jpg)
-)
+
+![火龍果](https://user-images.githubusercontent.com/88895341/131136631-48aa52a2-7622-44ea-bba1-813e778be0d1.jpg)
+
 ## 每天要做的事
 1. 澆水
 2. 照顧
