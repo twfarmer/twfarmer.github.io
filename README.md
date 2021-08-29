@@ -4,7 +4,7 @@
 ![leaves.jpg](leaves.jpg)
 
 ## 採收記錄
-1. 8/17（二）採收阿公種的2顆火龍果
+1. 8/17（二）
 2. 8/18（三）採收10片葉子
 3. 8/19（四）照顧昨天種的鳳梨頭
 4. 8/20（五）種的青蔥發的芽變長了
@@ -14,7 +14,8 @@
 8. 8/24（二）阿公種的冬瓜有30公分了
 9. 8/25（三）阿公種的另一條冬瓜，頭長得比較大
 10. 8/26（四）這是我家的蓮蕉花，看起來很高喔！
-
+11. 8/27（五）這是我採收阿公種的2顆火龍果
+12. 8/28（六）沒想到他好像斷掉了
 
 ![pineapple_head.jpg](pineapple_head.jpg)
 
@@ -33,6 +34,8 @@
 ![蓮蕉花](https://user-images.githubusercontent.com/88895341/130991810-88ffd95f-7472-4b94-aa9b-0711514e2b89.jpg)
 
 ![火龍果](https://user-images.githubusercontent.com/88895341/131136631-48aa52a2-7622-44ea-bba1-813e778be0d1.jpg)
+
+![tempImagesOQfRw](https://user-images.githubusercontent.com/88895341/131249408-00149d91-1729-4679-85f4-9347aafd3219.gif)
 
 ## 每天要做的事
 1. 澆水
