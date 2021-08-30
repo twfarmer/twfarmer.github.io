@@ -16,6 +16,7 @@
 10. 8/26（四）這是我家的蓮蕉花，看起來很高喔！
 11. 8/27（五）這是我採收阿公種的2顆火龍果
 12. 8/28（六）沒想到他好像斷掉了
+13. 8/29（一）這是我種的地瓜的葉子
 
 ![pineapple_head.jpg](pineapple_head.jpg)
 
@@ -36,6 +37,8 @@
 ![火龍果](https://user-images.githubusercontent.com/88895341/131136631-48aa52a2-7622-44ea-bba1-813e778be0d1.jpg)
 
 ![tempImagesOQfRw](https://user-images.githubusercontent.com/88895341/131249408-00149d91-1729-4679-85f4-9347aafd3219.gif)
+
+![地瓜葉的葉子](https://user-images.githubusercontent.com/88895341/131323380-7dff4c63-837b-4423-8488-3b3afe0892ac.jpg)
 
 ## 每天要做的事
 1. 澆水
