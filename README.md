@@ -40,6 +40,8 @@
 
 ![地瓜葉的葉子](https://user-images.githubusercontent.com/88895341/131323380-7dff4c63-837b-4423-8488-3b3afe0892ac.jpg)
 
+![蓮蕉花](canna_flower3.jpg)
+
 ## 每天要做的事
 1. 澆水
 2. 照顧
