@@ -43,6 +43,8 @@
 
 ![蓮蕉花](canna_flower3.jpg)
 
+![蓮蕉花](https://user-images.githubusercontent.com/88895341/132118459-451ffbf6-b795-4ec5-bcfb-86105adf80db.jpg)
+
 ## 每天要做的事
 1. 澆水
 2. 照顧
