@@ -46,6 +46,8 @@
 
 ![蓮蕉花](https://user-images.githubusercontent.com/88895341/132118459-451ffbf6-b795-4ec5-bcfb-86105adf80db.jpg)
 
+![顯微鏡](https://user-images.githubusercontent.com/88895341/132680733-8ca62746-1c1d-4232-ac64-37323eea35dd.jpg)
+
 ## 每天要做的事
 1. 澆水
 2. 照顧
